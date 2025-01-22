@@ -1,0 +1,6 @@
+ro.display.series=Samsung Galaxy M14
+ro.product.board=bengal
+ro.board.platform=bengal
+sys.usb.controller=4e00000.dwc3
+ro.boot.dynamic_partitions=true
+ro.boot.boot_devices=soc/4804000.ufshc
