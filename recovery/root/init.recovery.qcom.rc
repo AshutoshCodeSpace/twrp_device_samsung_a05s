@@ -26,8 +26,9 @@
 #
 
 on init
+#  Backlight and other settings
     write /sys/class/backlight/panel0-backlight/brightness 200
-    
+
 # Unlink /efs > /mnt/vendor/efs
     rm /efs
     mkdir /efs
